@@ -6,3 +6,4 @@ caja = "sex"
 #si
 #si
 print(caja)
+# 7 palabras: esencia
